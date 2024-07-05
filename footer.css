@@ -1,0 +1,13 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: #c48484 !important;
+  color: rgb(210, 26, 26);
+}
+
+.footer .text-muted {
+  color: white !important;
+}
